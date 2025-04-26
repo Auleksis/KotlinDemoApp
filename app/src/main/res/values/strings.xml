@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RedAulexDemo</string>
+    <string name="title_activity_rest_api">RestApiActivity</string>
+    <string name="title_activity_feedback">FeedbackActivity</string>
+</resources>
